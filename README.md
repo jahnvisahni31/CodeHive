@@ -14,10 +14,10 @@ Feel free to explore the folders and files if you are interested in my coding jo
 I plan to add more!
 
 ## Profiles
-- LeetCode : https://leetcode.com/manya721/
-- GFG : https://auth.geeksforgeeks.org/user/sharmamanya721
-- Codeforces : https://codeforces.com/profile/manya_sharma0706
-  
+- LeetCode : https://leetcode.com/jahnvisahni98/
+- GFG : https://auth.geeksforgeeks.org/user/jahnvisahni98
+- codeforces : https://codeforces.com/profile/jahnvisahni98
+
 ![image]
 
 ## Usage
