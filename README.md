@@ -18,7 +18,7 @@ I plan to add more!
 - GFG : https://auth.geeksforgeeks.org/user/jahnvisahni98
 - codeforces : https://codeforces.com/profile/jahnvisahni98
 
-![image]
+![image](https://github.com/jahnvisahni31/CodeHive/blob/main/assets/Screenshot%20from%202024-04-01%2022-03-32.png)
 
 ## Usage
 This repository is for personal use only. I use it to track my progress, experiment with different algorithms, and improve my coding skills. If you stumble upon this repository and find it helpful, that's great! Feel free to use it as inspiration for your own learning journey.
