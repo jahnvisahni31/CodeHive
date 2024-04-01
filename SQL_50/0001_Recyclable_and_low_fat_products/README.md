@@ -1,43 +1,35 @@
-<center>Question</center>
+# SQL Query to Find Products that are Low Fat and Recyclable
 
-Table: Products
+Given a SQL database schema with a table named Products, the task is to find the IDs of products that are both low fat and recyclable. Below is the schema of the Products table:
 
-+-------------+---------+
-| Column Name | Type    |
-+-------------+---------+
-| product_id  | int     |
-| low_fats    | enum    |
-| recyclable  | enum    |
-+-------------+---------+
-product_id is the primary key (column with unique values) for this table.
-low_fats is an ENUM (category) of type ('Y', 'N') where 'Y' means this product is low fat and 'N' means it is not.
-recyclable is an ENUM (category) of types ('Y', 'N') where 'Y' means this product is recyclable and 'N' means it is not.
- 
+| Column Name | Type   |
+|-------------|--------|
+| product_id  | int    |
+| low_fats    | enum   |
+| recyclable  | enum   |
 
-Write a solution to find the ids of products that are both low fat and recyclable.
+`product_id` is the primary key for this table. `low_fats` and `recyclable` are ENUM types with values 'Y' or 'N', indicating whether the product is low fat or recyclable respectively.
 
-Return the result table in any order.
+## Example
 
-The result format is in the following example.
+**Input:**
 
-Example 1:
-
-Input: 
 Products table:
-+-------------+----------+------------+
-| product_id  | low_fats | recyclable |
-+-------------+----------+------------+
-| 0           | Y        | N          |
-| 1           | Y        | Y          |
-| 2           | N        | Y          |
-| 3           | Y        | Y          |
-| 4           | N        | N          |
-+-------------+----------+------------+
-Output: 
-+-------------+
-| product_id  |
-+-------------+
-| 1           |
-| 3           |
-+-------------+
+
+| product_id | low_fats | recyclable |
+|------------|----------|------------|
+| 0          | Y        | N          |
+| 1          | Y        | Y          |
+| 2          | N        | Y          |
+| 3          | Y        | Y          |
+| 4          | N        | N          |
+
+**Output:**
+
+| product_id |
+|------------|
+| 1          |
+| 3          |
+
 Explanation: Only products 1 and 3 are both low fat and recyclable.
+
