@@ -9,6 +9,7 @@ Welcome to my personal repository for data structures and algorithms! This repos
 ## Directory Structure
 - 100_DAYS_OF_CODE: Code snippets and solutions related to my "100 Days of Code" challenge. (interview prep so didn't follow through)
 - GFG Problems: Implementations of algorithms and data structures related to problems on GeeksforGeeks. (Hard, Medium, Easy) [Majorly used for interview prep @Goldman Sach, @Microsoft & @Flipkart]
+- SQL-50: code snippets and solutions of most asked problems of SQL (Hard, Medium, Easy) [Majorly used for interview prep @Goldman Sach, @Microsoft & @Flipkart]
 
 Feel free to explore the folders and files if you are interested in my coding journey and the solutions I've come up with for different problems.
 I plan to add more!
