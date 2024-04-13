@@ -20,8 +20,8 @@ Feel free to explore the folders and files if you are interested in my coding jo
 - **Codeforces:** [Find me on Codeforces!](https://codeforces.com/profile/jahnvisahni98)
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/jahnvisahni31/CodeHive/blob/main/assets/Screenshot%20from%202024-04-13%2019-47-31.png" alt="Image 1" style="margin: 5px; width: 500px; height: 500px;">
-  <img src="https://github.com/jahnvisahni31/CodeHive/blob/main/assets/Screenshot%20from%202024-04-01%2022-03-32.png" alt="Image 2" style="margin: 5px; width: 500px; height: 500px;">
+  <img src="https://github.com/jahnvisahni31/CodeHive/blob/main/assets/Screenshot%20from%202024-04-13%2019-47-31.png" alt="Image 1" style="margin: 5px; width: 500px;">
+  <img src="https://github.com/jahnvisahni31/CodeHive/blob/main/assets/Screenshot%20from%202024-04-01%2022-03-32.png" alt="Image 2" style="margin: 5px; width: 500px;">
 </div>
 
 # Usage
