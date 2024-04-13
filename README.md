@@ -1,9 +1,9 @@
 <h1 align="center">My Coding Playground</h1>
 
-<p align="center">
-  <img src="https://i.gifer.com/JXA0.gif" alt="My Coding Playground">
-</p>
-
+<div align="center">
+  <div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/JXA0" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
+  <p><a href="https://gifer.com">via GIFER</a></p>
+</div>
 
 
 Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice. 
