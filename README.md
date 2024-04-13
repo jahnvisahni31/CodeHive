@@ -1,6 +1,8 @@
 <h1 align="center">My Coding Playground</h1>
 
- <p><a href="https://gifer.com">via GIFER</a></p>
+<p align="center">
+  <img src="https://github.com/jahnvisahni31/CodeHive/blob/main/assets/JXA0.gif" alt="My Coding Playground">
+</p>
 
 
 Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice. 
