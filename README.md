@@ -1,6 +1,6 @@
 # My Coding Playground!
 <div align="center">
-  ![My Coding Playground!](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
+  [My Coding Playground!](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
 </div>
 
 Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice. 
