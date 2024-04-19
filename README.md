@@ -13,6 +13,8 @@ Welcome to my personal repository for everyday progress of my algorithms and cor
 - **[SQL-50](https://github.com/jahnvisahni31/CodeHive/tree/main/SQL_50):** Code snippets and solutions of most asked problems of SQL (Hard, Medium, Easy)
 - **[STRIVER SHEET](https://github.com/jahnvisahni31/CodeHive/tree/main/Striver_SDE_Sheet):** Code snippets and solutions of progress of doing striver sde sheet
 - **[GFG SDE SHEET](https://github.com/jahnvisahni31/CodeHive/tree/main/GFG_sde_sheet):** Code snippets and solutions of progress of doing gfg sde sheet (Contains problems of faang and many more companies)
+
+<br>
 Feel free to explore the folders and files if you are interested in my coding journey and the solutions I've come up with for different problems. I plan to add more!
 
 ## Profiles
